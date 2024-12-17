@@ -3,8 +3,7 @@
 * [Node > v10.6](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/getting-started/install) (Preferred but not required)
 
-*A basic understanding of the modern web development workflow. If you don't 
-know this yet, React might not be for you just yet.*
+*A basic understanding of the modern web development workflow.*
 
 ## Getting Started
 
