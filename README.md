@@ -1,4 +1,4 @@
-https://imgur.com/a/BdpiF6Y
+![]https://imgur.com/a/BdpiF6Y
 ## Requirements
 * [Node > v10.6](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/getting-started/install) (Preferred but not required)
