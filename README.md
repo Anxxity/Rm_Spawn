@@ -1,5 +1,5 @@
 ![Interface]([https://imgur.com/a/BdpiF6Y])
-* [Node > v10.6](https://imgur.com/a/BdpiF6Y)
+![](https://imgur.com/a/BdpiF6Y)
 
 
 ## Requirements
