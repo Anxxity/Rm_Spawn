@@ -1,5 +1,4 @@
-![Interface]([https://imgur.com/a/BdpiF6Y])
-![img](https://i.imgur.com/JA8haJj.gif)
+![Interface](https://imgur.com/JA8haJj)
 
 
 ## Requirements
