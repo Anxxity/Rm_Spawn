@@ -1,4 +1,5 @@
-![]https://imgur.com/a/BdpiF6Y
+![Interface]([https://media.discordapp.net/attachments/1202695794537537568/1276957701468979293/image.png?ex=66cb6b08&is=66ca1988&hm=7fe5372955f21e3e5c072a70fc037ddc86573b36bc63f32ee5b4bb33d1765875&=&format=webp&quality=lossless&width=782&height=460](https://imgur.com/a/BdpiF6Y))
+
 ## Requirements
 * [Node > v10.6](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/getting-started/install) (Preferred but not required)
