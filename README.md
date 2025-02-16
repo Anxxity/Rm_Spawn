@@ -1,7 +1,9 @@
-![Interface](https://imgur.com/a/BdpiF6Y)
+
+![JA8haJj - Imgur](https://github.com/user-attachments/assets/39fee70b-331a-4745-9f09-39de4bbc84ca)
 
 
 ## Requirements
+
 * [Node > v10.6](https://nodejs.org/en/)
 * [Yarn](https://yarnpkg.com/getting-started/install) (Preferred but not required)
 
